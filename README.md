@@ -3,8 +3,7 @@
 A full-stack web application that tracks vessel performance region-wise, comparing daily **market rates** against **hire rates**, with role-based access for Office Admins and Office Users.
 
 Built as part of a technical assignment — implements PostgreSQL, Django REST Framework, and React exactly as specified in the brief.
-
-> New to this stack / on Windows? See [`WINDOWS_SETUP.md`](./WINDOWS_SETUP.md) for a fully guided, step-by-step setup.
+ 
 
 ---
 
